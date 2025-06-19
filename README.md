@@ -7,22 +7,22 @@ Uma API simples em JavaScript que fornece devocionais diários em formato JSON, 
 
 ### 1. Devocional de Hoje
 ```
-GET https://seu-usuario.github.io/devocional-diario/api.html?endpoint=today
+GET https://SEU-USUARIO.github.io/apiCrente/api.html?endpoint=today
 ```
 
 ### 2. Devocional por Data
 ```
-GET https://seu-usuario.github.io/devocional-diario/api.html?endpoint=date&date=2024-01-15
+GET hhttps://SEU-USUARIO.github.io/apiCrente/api.html?endpoint=random
 ```
 
 ### 3. Devocional Aleatório
 ```
-GET https://seu-usuario.github.io/devocional-diario/api.html?endpoint=random
+GET https://seu-usuario.github.io/apiCrente/api.html?endpoint=random
 ```
 
 ### 4. Todos os Devocionais
 ```
-GET https://seu-usuario.github.io/devocional-diario/api.html?endpoint=all
+GET hhttps://SEU-USUARIO.github.io/apiCrente/api.html?endpoint=all
 ```
 
 ## 📋 Formato da Resposta JSON
