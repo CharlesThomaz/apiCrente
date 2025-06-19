@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Devocional Diário</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .endpoint {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        .endpoint h3 {
+            color: #007bff;
+            margin-top: 0;
+        }
+        .url {
+            background: #343a40;
+            color: #28a745;
+            padding: 10px;
+            border-radius: 3px;
+            font-family: monospace;
+            word-break: break-all;
+        }
+        .json-output {
+            background: #2d3748;
+            color: #68d391;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 12px;
+            overflow-x: auto;
+            margin-top: 10px;
+        }
+        #json-response {
+            background: #1a202c;
+            color: #68d391;
+            padding: 20px;
+            border-radius: 5px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            margin-top: 20px;
+            min-height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📖 API Devocional Diário</h1>
+        <p>Endpoints JSON para integração com n8n e outras ferramentas</p>
+
+        <div class="endpoint">
+            <h3>🔗 Endpoints Disponíveis:</h3>
+            
+            <h4>1. Devocional de Hoje</h4>
+            <div class="url" id="today-url"></div>
+            <button onclick="callEndpoint('today')">Testar Endpoint</button>
+            
+            <h4>2. Devocional por Data</h4>
+            <div class="url" id="date-url"></div>
+            <button onclick="callEndpoint('date', '2024-01-15')">Testar Endpoint</button>
+            
+            <h4>3. Devocional Aleatório</h4>
+            <div class="url" id="random-url"></div>
+            <button onclick="callEndpoint('random')">Testar Endpoint</button>
+            
+            <h4>4. Lista de Todos os Devocionais</h4>
+            <div class="url" id="all-url"></div>
+            <button onclick="callEndpoint('all')">Testar Endpoint</button>
+        </div>
+
+        <div class="endpoint">
+            <h3>📋 Resposta JSON:</h3>
+            <div id="json-response">Clique em um dos botões acima para testar os endpoints</div>
+        </div>
+
+        <div class="endpoint">
+            <h3>🔧 Como usar no n8n:</h3>
+            <p>1. Use o nó <strong>HTTP Request</strong></p>
+            <p>2. Configure o método como <strong>GET</strong></p>
+            <p>3. Cole uma das URLs acima</p>
+            <p>4. O retorno será um JSON com os dados do devocional</p>
+        </div>
+    </div>
+
+    <script src="devocional-data.js"></script>
+    <script src="api.js"></script>
+    <script>
+        // Atualizar URLs na página
+        const baseUrl = window.location.origin + window.location.pathname.replace('index.html', '');
+        document.getElementById('today-url').textContent = baseUrl + 'api.html?endpoint=today';
+        document.getElementById('date-url').textContent = baseUrl + 'api.html?endpoint=date&date=2024-01-15';
+        document.getElementById('random-url').textContent = baseUrl + 'api.html?endpoint=random';
+        document.getElementById('all-url').textContent = baseUrl + 'api.html?endpoint=all';
+
+        function callEndpoint(endpoint, date = null) {
+            let result;
+            switch(endpoint) {
+                case 'today':
+                    result = DevocionalAPI.getToday();
+                    break;
+                case 'date':
+                    result = DevocionalAPI.getByDate(date || '2024-01-15');
+                    break;
+                case 'random':
+                    result = DevocionalAPI.getRandom();
+                    break;
+                case 'all':
+                    result = DevocionalAPI.getAll();
+                    break;
+            }
+            document.getElementById('json-response').textContent = JSON.stringify(result, null, 2);
+        }
+    </script>
+</body>
+</html>
+
