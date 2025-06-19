@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "titulo": "Confiança em Deus",
+    "versiculo": "Provérbios 3:5-6",
+    "mensagem": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento.",
+    "oracao": "Senhor, ajuda-me a confiar em Ti em todas as situações."
+  },
+  {
+    "id": 2,
+    "titulo": "Força na Fraqueza",
+    "versiculo": "2 Coríntios 12:9",
+    "mensagem": "A graça de Deus é suficiente para você, pois o seu poder se aperfeiçoa na fraqueza.",
+    "oracao": "Deus, fortalece-me onde sou fraco."
+  },
+  {
+    "id": 3,
+    "titulo": "Paz Interior",
+    "versiculo": "Filipenses 4:7",
+    "mensagem": "A paz de Deus, que excede todo entendimento, guardará o seu coração e sua mente em Cristo Jesus.",
+    "oracao": "Pai, concede-me a Tua paz que o mundo não pode dar."
+  },
+  {
+    "id": 4,
+    "titulo": "Amor Incondicional",
+    "versiculo": "1 João 4:19",
+    "mensagem": "Nós amamos porque ele nos amou primeiro.",
+    "oracao": "Senhor, ensina-me a amar como Tu amas."
+  },
+  {
+    "id": 5,
+    "titulo": "Esperança Viva",
+    "versiculo": "Romanos 15:13",
+    "mensagem": "Que o Deus da esperança os encha de toda alegria e paz, por sua confiança nele.",
+    "oracao": "Deus da esperança, renova minha fé e alegria."
+  },
+  {
+    "id": 6,
+    "titulo": "Perdão que Liberta",
+    "versiculo": "Mateus 6:14-15",
+    "mensagem": "Perdoem, e serão perdoados.",
+    "oracao": "Senhor, ajuda-me a perdoar para ser livre."
+  },
+  {
+    "id": 7,
+    "titulo": "Serviço com Humildade",
+    "versiculo": "Mateus 23:11",
+    "mensagem": "O maior entre vocês será o servo.",
+    "oracao": "Jesus, guia-me a servir com humildade e amor."
+  },
+  {
+    "id": 8,
+    "titulo": "Fé que Move Montanhas",
+    "versiculo": "Mateus 17:20",
+    "mensagem": "Se vocês tiverem fé do tamanho de uma semente de mostarda, nada lhes será impossível.",
+    "oracao": "Senhor, fortalece minha fé para confiar totalmente em Ti."
+  },
+  {
+    "id": 9,
+    "titulo": "Alegria no Senhor",
+    "versiculo": "Neemias 8:10",
+    "mensagem": "A alegria do Senhor é a sua força.",
+    "oracao": "Pai, renova minha alegria em Ti a cada dia."
+  },
+  {
+    "id": 10,
+    "titulo": "Sabedoria Divina",
+    "versiculo": "Tiago 1:5",
+    "mensagem": "Se alguém de vocês tem falta de sabedoria, peça a Deus.",
+    "oracao": "Deus, concede-me sabedoria para tomar decisões acertadas."
+  },
+  {
+    "id": 11,
+    "titulo": "Luz no Caminho",
+    "versiculo": "Salmos 119:105",
+    "mensagem": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho.",
+    "oracao": "Senhor, ilumina meu caminho com Tua palavra."
+  },
+  {
+    "id": 12,
+    "titulo": "Gratidão Sempre",
+    "versiculo": "1 Tessalonicenses 5:18",
+    "mensagem": "Dêem graças em todas as circunstâncias.",
+    "oracao": "Pai, ajuda-me a ser grato em todo momento."
+  },
+  {
+    "id": 13,
+    "titulo": "Deus é Refúgio",
+    "versiculo": "Salmos 46:1",
+    "mensagem": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+    "oracao": "Deus, seja meu refúgio e força hoje e sempre."
+  },
+  {
+    "id": 14,
+    "titulo": "Humildade que Exalta",
+    "versiculo": "Tiago 4:10",
+    "mensagem": "Humilhem-se diante do Senhor, e ele os exaltará.",
+    "oracao": "Senhor, ensina-me a ser humilde e confiar em Ti."
+  },
+  {
+    "id": 15,
+    "titulo": "Coração Alegre",
+    "versiculo": "Provérbios 17:22",
+    "mensagem": "O coração alegre é bom remédio, mas o espírito abatido seca os ossos.",
+    "oracao": "Deus, enche meu coração de alegria e esperança."
+  },
+  {
+    "id": 16,
+    "titulo": "Esperança que Não Engana",
+    "versiculo": "Romanos 5:5",
+    "mensagem": "A esperança não nos decepciona, porque o amor de Deus foi derramado em nossos corações.",
+    "oracao": "Pai, renova minha esperança em Ti diariamente."
+  },
+  {
+    "id": 17,
+    "titulo": "Paciência na Espera",
+    "versiculo": "Salmos 27:14",
+    "mensagem": "Espere no Senhor. Seja forte! Coragem! Espere no Senhor!",
+    "oracao": "Senhor, dá-me paciência e coragem para esperar em Ti."
+  },
+  {
+    "id": 18,
+    "titulo": "Proteção Divina",
+    "versiculo": "Salmos 91:4",
+    "mensagem": "Ele o cobrirá com suas penas, e sob suas asas você encontrará refúgio.",
+    "oracao": "Deus, protege-me e guarda minha vida em Tuas mãos."
+  },
+  {
+    "id": 19,
+    "titulo": "Vida Abundante",
+    "versiculo": "João 10:10",
+    "mensagem": "Eu vim para que tenham vida e a tenham plenamente.",
+    "oracao": "Jesus, ajuda-me a viver a vida abundante que Tu prometes."
+  },
+  {
+    "id": 20,
+    "titulo": "Bondade e Misericórdia",
+    "versiculo": "Salmos 23:6",
+    "mensagem": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida.",
+    "oracao": "Senhor, que Tua bondade e misericórdia me acompanhem sempre."
+  },
+  {
+    "id": 21,
+    "titulo": "Vencer o Medo",
+    "versiculo": "Isaías 41:10",
+    "mensagem": "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus.",
+    "oracao": "Deus, ajuda-me a vencer o medo confiando em Ti."
+  },
+  {
+    "id": 22,
+    "titulo": "Justiça e Retidão",
+    "versiculo": "Miquéias 6:8",
+    "mensagem": "Ele te declarou, ó homem, o que é bom; e o que o Senhor pede de ti: agir com justiça, amar a misericórdia e andar humildemente.",
+    "oracao": "Senhor, guia-me para viver com justiça e humildade."
+  },
+  {
+    "id": 23,
+    "titulo": "Fé em Ação",
+    "versiculo": "Tiago 2:17",
+    "mensagem": "Assim também a fé, se não tiver obras, é morta em si mesma.",
+    "oracao": "Pai, ajuda-me a demonstrar minha fé através das minhas ações."
+  },
+  {
+    "id": 24,
+    "titulo": "Alegria na Salvação",
+    "versiculo": "Salmos 51:12",
+    "mensagem": "Devolve-me a alegria da tua salvação, sustenta-me com um espírito voluntário.",
+    "oracao": "Senhor, renova em mim a alegria da minha salvação."
+  },
+  {
+    "id": 25,
+    "titulo": "Confiança na Providência",
+    "versiculo": "Mateus 6:26",
+    "mensagem": "Observem as aves do céu: não semeiam, nem colhem, nem armazenam, e contudo o Pai celestial as alimenta.",
+    "oracao": "Deus, ajuda-me a confiar em Tua provisão diária."
+  },
+  {
+    "id": 26,
+    "titulo": "Sede de Justiça",
+    "versiculo": "Mateus 5:6",
+    "mensagem": "Bem-aventurados os que têm fome e sede de justiça, pois serão satisfeitos.",
+    "oracao": "Senhor, cria em mim um coração sedento pela justiça."
+  },
+  {
+    "id": 27,
+    "titulo": "Renovação Diária",
+    "versiculo": "Lamentações 3:22-23",
+    "mensagem": "As misericórdias do Senhor são a causa de não sermos consumidos; elas se renovam a cada manhã.",
+    "oracao": "Deus, renova minhas forças e misericórdia a cada dia."
+  },
+  {
+    "id": 28,
+    "titulo": "Obediência a Deus",
+    "versiculo": "João 14:15",
+    "mensagem": "Se vocês me amam, obedecerão aos meus mandamentos.",
+    "oracao": "Senhor, ajuda-me a obedecer-Te com amor e alegria."
+  },
+  {
+    "id": 29,
+    "titulo": "Fé que Persevera",
+    "versiculo": "Hebreus 12:1",
+    "mensagem": "Corramos com perseverança a corrida que nos é proposta.",
+    "oracao": "Deus, dá-me força para perseverar na fé até o fim."
+  },
+  {
+    "id": 30,
+    "titulo": "Paz que Transforma",
+    "versiculo": "Colossenses 3:15",
+    "mensagem": "Que a paz de Cristo seja o árbitro em seus corações.",
+    "oracao": "Senhor, que Tua paz governe meu coração diariamente."
+  },
+  {
+    "id": 31,
+    "titulo": "Oração Poderosa",
+    "versiculo": "Tiago 5:16",
+    "mensagem": "A oração de um justo é poderosa e eficaz.",
+    "oracao": "Pai, fortalece minha vida de oração para que eu seja justo."
+  },
+  {
+    "id": 32,
+    "titulo": "Santidade em Cristo",
+    "versiculo": "1 Pedro 1:16",
+    "mensagem": "Sejam santos, porque eu sou santo.",
+    "oracao": "Senhor, ajuda-me a crescer em santidade todos os dias."
+  },
+  {
+    "id": 33,
+    "titulo": "Graça Abundante",
+    "versiculo": "Efésios 2:8-9",
+    "mensagem": "Pela graça vocês são salvos, mediante a fé.",
+    "oracao": "Deus, obrigado pela graça que me salva e sustenta."
+  },
+  {
+    "id": 34,
+    "titulo": "Amor ao Próximo",
+    "versiculo": "Mateus 22:39",
+    "mensagem": "Ame o seu próximo como a si mesmo.",
+    "oracao": "Senhor, ensina-me a amar genuinamente as pessoas ao meu redor."
+  },
+  {
+    "id": 35,
+    "titulo": "Liberdade em Cristo",
+    "versiculo": "Gálatas 5:1",
+    "mensagem": "Para a liberdade foi que Cristo nos libertou.",
+    "oracao": "Jesus, quebre todas as correntes e me faça livre em Ti."
+  },
+  {
+    "id": 36,
+    "titulo": "Esperança na Ressurreição",
+    "versiculo": "1 Coríntios 15:20",
+    "mensagem": "Cristo ressuscitou dentre os mortos, primícias dos que dormem.",
+    "oracao": "Senhor, renova minha esperança na vida eterna contigo."
+  },
+  {
+    "id": 37,
+    "titulo": "Compromisso com a Verdade",
+    "versiculo": "João 8:32",
+    "mensagem": "Conheçam a verdade, e a verdade os libertará.",
+    "oracao": "Pai, guia-me sempre na verdade do Teu evangelho."
+  },
+  {
+    "id": 38,
+    "titulo": "Amizade com Deus",
+    "versiculo": "Tiago 2:23",
+    "mensagem": "Abraão creu em Deus, e isso lhe foi creditado como justiça, tornando-se amigo de Deus.",
+    "oracao": "Senhor, fortalece minha amizade contigo por meio da fé."
+  },
+  {
+    "id": 39,
+    "titulo": "Confiança no Senhor",
+    "versiculo": "Salmos 37:5",
+    "mensagem": "Entrega o teu caminho ao Senhor; confia nele, e ele agirá.",
+    "oracao": "Deus, entrego meus planos em Tuas mãos."
+  },
+  {
+    "id": 40,
+    "titulo": "Alegria da Salvação",
+    "versiculo": "Salmos 51:12",
+    "mensagem": "Devolve-me a alegria da tua salvação e sustenta-me com um espírito voluntário.",
+    "oracao": "Senhor, restaura em mim a alegria da salvação."
+  },
+  {
+    "id": 41,
+    "titulo": "Coragem para Viver",
+    "versiculo": "Josué 1:9",
+    "mensagem": "Seja forte e corajoso; não se apavore nem desanime.",
+    "oracao": "Deus, dá-me coragem para enfrentar os desafios."
+  },
+  {
+    "id": 42,
+    "titulo": "Deus é Amor",
+    "versiculo": "1 João 4:8",
+    "mensagem": "Quem não ama não conhece a Deus, porque Deus é amor.",
+    "oracao": "Senhor, enche meu coração com Teu amor infinito."
+  },
+  {
+    "id": 43,
+    "titulo": "Luz do Mundo",
+    "versiculo": "Mateus 5:14",
+    "mensagem": "Vocês são a luz do mundo.",
+    "oracao": "Jesus, ajuda-me a refletir Tua luz onde eu estiver."
+  },
+  {
+    "id": 44,
+    "titulo": "Perseverança na Prova",
+    "versiculo": "Tiago 1:12",
+    "mensagem": "Bem-aventurado aquele que persevera na prova, pois receberá a coroa da vida.",
+    "oracao": "Senhor, dá-me força para vencer as dificuldades com fé."
+  },
+  {
+    "id": 45,
+    "titulo": "Renovação do Espírito",
+    "versiculo": "Romanos 12:2",
+    "mensagem": "Sejam transformados pela renovação da mente.",
+    "oracao": "Deus, renova meu espírito e minha mente diariamente."
+  },
+  {
+    "id": 46,
+    "titulo": "Deus é Fiel",
+    "versiculo": "1 Coríntios 1:9",
+    "mensagem": "Deus é fiel, e Ele os chamou para estarem em comunhão com seu Filho Jesus Cristo.",
+    "oracao": "Pai, obrigado por Tua fidelidade constante."
+  },
+  {
+    "id": 47,
+    "titulo": "Justificados pela Fé",
+    "versiculo": "Romanos 5:1",
+    "mensagem": "Justificados pela fé, temos paz com Deus por meio de nosso Senhor Jesus Cristo.",
+    "oracao": "Senhor, ajuda-me a viver na paz da justificação pela fé."
+  },
+  {
+    "id": 48,
+    "titulo": "Frutos do Espírito",
+    "versiculo": "Gálatas 5:22-23",
+    "mensagem": "O fruto do Espírito é amor, alegria, paz, paciência, bondade, fidelidade, mansidão e domínio próprio.",
+    "oracao": "Espírito Santo, produz em mim Teus frutos diariamente."
+  },
+  {
+    "id": 49,
+    "titulo": "Recomeço em Cristo",
+    "versiculo": "2 Coríntios 5:17",
+    "mensagem": "Se alguém está em Cristo, é nova criação; as coisas antigas já passaram.",
+    "oracao": "Jesus, me faz nova criação, com um coração renovado."
+  },
+  {
+    "id": 50,
+    "titulo": "Alegria da Salvação",
+    "versiculo": "Salmos 51:12",
+    "mensagem": "Devolve-me a alegria da tua salvação e sustenta-me com um espírito voluntário.",
+    "oracao": "Senhor, renova em mim a alegria da salvação."
+  },
+  {
+    "id": 51,
+    "titulo": "Esperança em Deus",
+    "versiculo": "Romanos 15:13",
+    "mensagem": "Que o Deus da esperança os encha de toda alegria e paz por sua confiança nele.",
+    "oracao": "Pai, enche meu coração de esperança e paz."
+  },
+  {
+    "id": 52,
+    "titulo": "Descanso em Cristo",
+    "versiculo": "Mateus 11:28",
+    "mensagem": "Venham a mim, todos os que estão cansados e sobrecarregados, e eu lhes darei descanso.",
+    "oracao": "Senhor, dá-me força para vencer as dificuldades com fé."
+  },{
+  "id": 53,
+  "titulo": "Confiança em Deus",
+  "versiculo": "Provérbios 3:5-6",
+  "mensagem": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento.",
+  "oracao": "Senhor, ajuda-me a confiar em Ti em todas as situações."
+},
+  {
+    "id": 54,
+    "titulo": "Força na Fraqueza",
+    "versiculo": "2 Coríntios 12:9",
+    "mensagem": "A graça de Deus é suficiente para você, pois o seu poder se aperfeiçoa na fraqueza.",
+    "oracao": "Deus, fortalece-me onde sou fraco."
+  },
+  {
+    "id": 55,
+    "titulo": "Paz Interior",
+    "versiculo": "Filipenses 4:7",
+    "mensagem": "A paz de Deus, que excede todo entendimento, guardará o seu coração e sua mente em Cristo Jesus.",
+    "oracao": "Pai, concede-me a Tua paz que o mundo não pode dar."
+  }
+  ]
